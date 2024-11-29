@@ -1,6 +1,6 @@
 # Activity Analysis
 ## Background and Overview
-**Problem:** Are the individuals in the dataset more active on weekdays or weekends?
+**Problem:** Are the individuals in the dataset more active on weekdays or weekends? /
 This question explores whether individuals maintain consistent physical activity across the entire week or primarily engage in movement during structured routines on weekdays. Understanding these patterns would be crucial to helping individuals optimise their routines, as well as enabling public health officials to develop targeted policies.
 
 ## Data Structure 
