@@ -75,3 +75,7 @@ The consistency metric is used to capture the percentage of days a participant c
 
 The average step count on weekdays is visibly higher than on weekends. This suggests that individuals are generally more active on weekdays, possibly due to structured routines such as work or school, which may necessitate more movement.
 
+## Recommendations
+- **Weekend Specific Challenges:** Create challenges specifically on weekend to promote physical activity for Saturdays and Sundays. 
+- **Weekend Specific Rewards:** Offer rewards or discounts for users who meet step goals on weekends. 
+- **Customised Weekend Reminders:** Use personalised notifications to remind users to stay active on weekends, suggesting specific activities like walking in a park, joining a fitness class, or exploring local trails.
