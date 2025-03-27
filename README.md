@@ -3,7 +3,7 @@
 **Problem:** Are the individuals in the dataset more active on weekdays or weekends? \
 This project investigates whether physical activity levels, measured by step counts, differ between weekdays and weekends. Understanding these patterns is critical for assessing how structured routines, such as work or school schedules, influence activity. Insights from this analysis could guide individuals in maintaining consistent physical activity throughout the week and inform public health officials in designing policies or interventions to promote regular movement, particularly on days with lower activity levels. By addressing this question, the project aims to contribute to strategies that enhance personal health and community wellbeing.
 
-[Python Analysis](https://github.com/nith263/weekday-weekend-activity-analysis/blob/main/python-final-analysis.ipynb)
+[Python Analysis](https://github.com/nith263/weekday-weekend-activity-analysis/blob/main/python-final-analysis.ipynb) \
 [Excel Analysis](https://github.com/nith263/weekday-weekend-activity-analysis/blob/main/final-analysis.xlsx)
 
 ## Data Structure 
